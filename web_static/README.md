@@ -1,1 +1,1 @@
-This is a readme file for web static directory of AirBnb clone project.
+This is a readme file for web static directory of AirBnb clone project. It is created and modified by Ezekiel M. Alene.
